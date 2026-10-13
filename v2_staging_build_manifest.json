@@ -1,0 +1,65 @@
+{
+  "generated_utc": "2026-10-13T11:34:24.377798+00:00",
+  "bundle": "C:\\CloverStone\\Data\\Steve\\commercial\\hosting\\cloverstone-mercury-v2-review",
+  "repo": "Chazser/cloverstone-mercury-v2-review",
+  "status": "LOCAL_STAGING_BUNDLE_VALIDATED_NOT_YET_PUBLISHED",
+  "sites": [
+    {
+      "slug": "morrow-vale",
+      "name": "Morrow & Vale",
+      "type": "Architecture / exterior craft",
+      "routes": 8,
+      "bytes": 5193301,
+      "files": {
+        "html": 8,
+        "javascript": 1,
+        "css": 1
+      },
+      "url": "https://chazser.github.io/cloverstone-mercury-v2-review/morrow-vale/"
+    },
+    {
+      "slug": "fenn-ember",
+      "name": "Fenn & Ember",
+      "type": "Restaurant / hospitality",
+      "routes": 8,
+      "bytes": 4062531,
+      "files": {
+        "html": 8,
+        "javascript": 1,
+        "css": 1
+      },
+      "url": "https://chazser.github.io/cloverstone-mercury-v2-review/fenn-ember/"
+    },
+    {
+      "slug": "merrow-form",
+      "name": "MERROW / FORM",
+      "type": "Objects / design studio",
+      "routes": 8,
+      "bytes": 2949751,
+      "files": {
+        "html": 8,
+        "javascript": 1,
+        "css": 1
+      },
+      "url": "https://chazser.github.io/cloverstone-mercury-v2-review/merrow-form/"
+    },
+    {
+      "slug": "vector-loom",
+      "name": "VECTOR / LOOM",
+      "type": "Engineering / technical consultancy",
+      "routes": 8,
+      "bytes": 3818392,
+      "files": {
+        "html": 8,
+        "javascript": 1,
+        "css": 1
+      },
+      "url": "https://chazser.github.io/cloverstone-mercury-v2-review/vector-loom/"
+    }
+  ],
+  "routes": 32,
+  "internal_links_checked": 1227,
+  "errors": [],
+  "marketing_use_approved": false,
+  "production_replaced": false
+}
